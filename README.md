@@ -5,4 +5,4 @@ visslm icon
 
 上传后大概 30s 后自动部署就会完成
 
-访问 https://visslm.github.io/iconfont/ 即可看到效果
+访问 https://visslm.github.io/SSF_ICON/ 即可看到效果
