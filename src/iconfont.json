@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "836631",
+      "name": "group",
+      "font_class": "group",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "1013201",
+      "name": "角色",
+      "font_class": "role",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "4236646",
+      "name": "项目",
+      "font_class": "project",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
       "icon_id": "348798",
       "name": "spinner",
       "font_class": "spinner",
