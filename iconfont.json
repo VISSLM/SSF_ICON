@@ -6,6 +6,41 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "348798",
+      "name": "spinner",
+      "font_class": "spinner",
+      "unicode": "ebfe",
+      "unicode_decimal": 60414
+    },
+    {
+      "icon_id": "712305",
+      "name": "添加部门人员",
+      "font_class": "add-person",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "928926",
+      "name": "anchor",
+      "font_class": "anchor",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "1312396",
+      "name": "icon_git-branch",
+      "font_class": "branch",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "34512714",
+      "name": "拖拽",
+      "font_class": "dragger-four",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
+    },
+    {
       "icon_id": "348268",
       "name": "bars",
       "font_class": "bars",

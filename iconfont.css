@@ -1,9 +1,9 @@
 @font-face {
   font-family: "visslmVueIcon"; /* Project id 3949346 */
-  src: url('iconfont.woff2?t=1679568352583') format('woff2'),
-       url('iconfont.woff?t=1679568352583') format('woff'),
-       url('iconfont.ttf?t=1679568352583') format('truetype'),
-       url('iconfont.svg?t=1679568352583#visslmVueIcon') format('svg');
+  src: url('iconfont.woff2?t=1679627372338') format('woff2'),
+       url('iconfont.woff?t=1679627372338') format('woff'),
+       url('iconfont.ttf?t=1679627372338') format('truetype'),
+       url('iconfont.svg?t=1679627372338#visslmVueIcon') format('svg');
 }
 
 .visslmVueIcon {
@@ -12,6 +12,26 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.visslmIcon-spinner:before {
+  content: "\ebfe";
+}
+
+.visslmIcon-add-person:before {
+  content: "\e72c";
+}
+
+.visslmIcon-anchor:before {
+  content: "\e72d";
+}
+
+.visslmIcon-branch:before {
+  content: "\e72e";
+}
+
+.visslmIcon-dragger-four:before {
+  content: "\e7f5";
 }
 
 .visslmIcon-bars:before {
