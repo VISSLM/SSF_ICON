@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "2553416",
+      "name": "暂停",
+      "font_class": "pause",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
       "icon_id": "836631",
       "name": "group",
       "font_class": "group",

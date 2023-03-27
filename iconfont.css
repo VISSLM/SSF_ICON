@@ -1,9 +1,9 @@
 @font-face {
   font-family: "visslmVueIcon"; /* Project id 3949346 */
-  src: url('iconfont.woff2?t=1679642695892') format('woff2'),
-       url('iconfont.woff?t=1679642695892') format('woff'),
-       url('iconfont.ttf?t=1679642695892') format('truetype'),
-       url('iconfont.svg?t=1679642695892#visslmVueIcon') format('svg');
+  src: url('iconfont.woff2?t=1679901226941') format('woff2'),
+       url('iconfont.woff?t=1679901226941') format('woff'),
+       url('iconfont.ttf?t=1679901226941') format('truetype'),
+       url('iconfont.svg?t=1679901226941#visslmVueIcon') format('svg');
 }
 
 .visslmVueIcon {
@@ -12,6 +12,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.visslmIcon-pause:before {
+  content: "\e732";
 }
 
 .visslmIcon-group:before {
