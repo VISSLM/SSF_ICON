@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "13175373",
+      "name": "开始检查",
+      "font_class": "code-scan-filled",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "33544310",
+      "name": "开始检查",
+      "font_class": "code-scan",
+      "unicode": "ea5f",
+      "unicode_decimal": 59999
+    },
+    {
       "icon_id": "2553416",
       "name": "暂停",
       "font_class": "pause",
